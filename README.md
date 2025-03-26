@@ -2,7 +2,7 @@
 
 A modern, feature-rich task management application built with React that integrates weather data and motivational quotes to enhance productivity.
 
-![App Screenshot - Dashboard](./screenshots/dashboard.png)
+![App Screenshot - Dashboard](./public/screenshots/dashboard.png)
 
 ## 🌟 Features
 
@@ -93,15 +93,15 @@ The application will be available at `http://localhost:5173`
 ## 📱 Screenshots
 
 ### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./public/screenshots/dashboard.png)
 The main dashboard showing task list and weather information.
 
 ### Login Page
-![Login Page](./screenshots/Login.png)
+![Login Page](./public/screenshots/Login.png)
 Adding a new task with weather awareness.
 
 ### Weather Integration
-![Weather Details](./screenshots/weather.png)
+![Weather Details](./public/screenshots/weather.png)
 Weather information displayed for outdoor tasks.
 
 ## 🔑 Key Features Explained
