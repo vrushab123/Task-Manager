@@ -2,8 +2,7 @@
 
 A modern, feature-rich task management application built with React that integrates weather data and motivational quotes to enhance productivity.
 
-![App Screenshot - Dashboard](https://i.imgur.com/example1.jpg)
-[Note: Replace these placeholder URLs with actual screenshots of your application]
+![App Screenshot - Dashboard](./screenshots/dashboard.png)
 
 ## 🌟 Features
 
@@ -57,8 +56,8 @@ A modern, feature-rich task management application built with React that integra
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/weather-aware-task-manager.git
-cd weather-aware-task-manager
+git clone https://github.com/vrushab123/Task-Manager
+cd task-manager
 ```
 
 2. Install dependencies
@@ -94,20 +93,16 @@ The application will be available at `http://localhost:5173`
 ## 📱 Screenshots
 
 ### Dashboard
-![Dashboard](https://i.imgur.com/example2.jpg)
+![Dashboard](./screenshots/dashboard.png)
 The main dashboard showing task list and weather information.
 
-### Task Creation
-![Add Task](https://i.imgur.com/example3.jpg)
+### Login Page
+![Login Page](./screenshots/Login.png)
 Adding a new task with weather awareness.
 
 ### Weather Integration
-![Weather Details](https://i.imgur.com/example4.jpg)
+![Weather Details](./screenshots/weather.png)
 Weather information displayed for outdoor tasks.
-
-### Mobile View
-![Mobile Interface](https://i.imgur.com/example5.jpg)
-Responsive design for mobile devices.
 
 ## 🔑 Key Features Explained
 
@@ -155,13 +150,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - ZenQuotes API for motivational quotes
 - Todoist for design inspiration
 - React community for amazing tools and libraries
-
-## 📫 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/weather-aware-task-manager](https://github.com/yourusername/weather-aware-task-manager)
-
----
-
-[Note: Replace placeholder image URLs, social media links, and repository URLs with your actual project information]
 
